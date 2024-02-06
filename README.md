@@ -1,4 +1,4 @@
-### Olá, sou o Eduardo Diamandis🐉
+### Olá, sou o Eduardo Diamandis
 
 
 
