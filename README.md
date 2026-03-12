@@ -1,4 +1,4 @@
-# Hi, I'm Eduardo Diamandis 👋
+# Hi, I'm Eduardo Diamandis 
 
 <div align="right">
   <a href="./README.md">🇺🇸 English</a> | 
@@ -27,7 +27,7 @@ I am passionate about transforming raw field and market data into robust, scalab
 
 ---
 
-### 🚀 Featured Projects (AgroTech & Data Engineering)
+###  Featured Projects (AgroTech & Data Engineering)
 
 #### 🗺️ Soy Crop Tour 2026
 Full-scale infrastructure for real-time harvest monitoring.
@@ -51,7 +51,7 @@ Visualization system for Mark-to-Market (MTM) and Year-over-Year (YoY) variation
 
 ---
 
-### 🎯 Goals and Interests
+###  Goals and Interests
 * Deepening expertise in **Microservices** and distributed systems.
 * Optimizing real-time data pipelines using **Cloud Functions**.
 * Web application security, focusing on authentication and encryption best practices.
